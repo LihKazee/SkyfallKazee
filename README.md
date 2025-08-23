@@ -1,1 +1,34 @@
-# SkyfallKazee
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>takes it all</title>
+</head>
+<style>
+  body {
+    background-image: url(light.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+</style>
+<a href="https://akb48.fandom.com/wiki/Hillary_Abigail" target="_blank">Dani al
+bazzar</a>
+<body>
+  <video controls style="width:100%; height:auto; display:block; margin:0 auto;">
+    <source src="ssstik.io_@katsukiii_kachan_1755655404325.mp4" type="video/mp4" />
+    please
+  </video>
+  <video width="100%" height="auto" controls>
+    <source src="KNY.mp4" type="video/mp4"
+  </video>
+  <p style="color: deeppink; font size: 40px text-shadow: 2px b;">this is my lovely♥</p>
+  <img src="Lily.jpg" alt="This is my lovely" width="90%"
+  height="auto">
+  <h2 style="color: deepskyblue;">ini fritzy rosmerian</h2>
+  <img src="my.jpg"alt="this is fritzy rosmerian"width="70%"
+  height="auto">
+</body>
+</html>
